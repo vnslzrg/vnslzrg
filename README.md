@@ -10,15 +10,24 @@
 ### 💖 About Me
 
 - 🎓 Currently studying **BS Information Systems**  
-- ✨ Creating bugs since I started testing my own code 😅  
 - 📫 Reach me at: **veneesejulialazaraga@gmail.com**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vnslzrg&theme=dracula&title=Commit,Issues,PullRequest,Repositories&column=4&no-frame=true&margin-w=10&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/veneesejulialazaraga" target="blank">
+  <a href="https://www.linkedin.com/in/veneese-julia-lazaraga-571bbb300/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -48,16 +57,6 @@
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vnslzrg&theme=dracula&title=Commit,Issues,PullRequest,Repositories&column=4&no-frame=true&margin-w=10&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
