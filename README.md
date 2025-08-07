@@ -9,7 +9,7 @@
 
 ### 💖 About Me
 
-- 📍 From Pamnga
+- 📍 From Pampanga
 - 🎓 Currently studying **BS Information Systems**  
 - ✨ Creating bugs since I started testing my own code 😅  
 - 📫 Reach me at: **veneesejulialazaraga@gmail.com**
