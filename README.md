@@ -2,7 +2,12 @@
   <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="MasterHead" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Veneese!💗</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Veneese!+˚˖𓍢🌷✧˚.🎀⋆;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vnslzrg&label=Profile%20views&color=e91e63&style=flat" alt="vnslzrg" />
@@ -10,10 +15,11 @@
 
 ---
 
-### 💖 About Me
+### ˗ˏˋ 🍒 ˎˊ˗ About Me
 
-- 🎓 Currently studying **BS Information Systems**
-- 🌱 Currently learning **App Dev 1**
+- 🎓 Bachelor of Science in Information Systems  
+- 🌱 Focused on learning **App Development 1**
+- 🎨 Hobbies: Nap. Binge. Snack. Repeat.
 - 📫 Reach me at: **veneesejulialazaraga@gmail.com**
 
 ---
