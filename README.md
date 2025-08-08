@@ -17,8 +17,7 @@
 
 ### ˗ˏˋ 🍒 ˎˊ˗ About Me
 
-- 🎓 Currently studying Bachelor of Science in Information Systems  
-- 🌱 Focused on learning **App Development 1**
+- 🎓 Currently studying **Bachelor of Science in Information Systems**
 - 💻 Have basic knowledge about programming
 - 🎨 Hobbies: Nap. Binge. Snack. Repeat.
 - 📫 Reach me at: **veneesejulialazaraga@gmail.com**
