@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Veneese!💗</h1>
-<h3 align="center">An aspiring Software Quality Assurance (SQA) Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vnslzrg&label=Profile%20views&color=e91e63&style=flat" alt="vnslzrg" />
