@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/BYBCyavqkv8NMt376" alt="image" />
+  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="MasterHead" width="100%" />
 </p>
 
-
-
-
 <h1 align="center">Hi, I'm Veneese!💗</h1>
-<h3 align="center">An aspiring Software Quality Assurance </h3>
+<h3 align="center">An aspiring Software Quality Assurance (SQA) Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vnslzrg&label=Profile%20views&color=e91e63&style=flat" alt="vnslzrg" />
@@ -32,11 +29,20 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Socials
 
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/veneese-julia-lazaraga-571bbb300/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.instagram.com/tndy_dlf/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+
+  <a href="https://web.facebook.com/vneese.lazaraga" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
@@ -44,8 +50,7 @@
 
 ### 💻 Languages & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
