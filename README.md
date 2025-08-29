@@ -45,3 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vnslzrg&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
+<div align="center"> <em>"You can't move forward with the same mindset that keeps you stuck." </em> </div>
