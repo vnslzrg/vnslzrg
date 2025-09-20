@@ -17,11 +17,11 @@
 
 ### ˗ˏˋ 🍒 ˎˊ˗ About Me
 
-- 🎓 Currently studying **BS in Information Systems**
-- 💻 Have basic knowledge about programming (enough to make things work... and break them too!)
-- 📌 Focusing on Manual Software Testing – learning how to write test cases, find bugs, and understand the QA process.
-- 🎨 Hobbies: Nap. Binge. Snack. Repeat.
-- 📫 Reach me at: **veneesejulialazaraga@gmail.com**
+-  Currently studying **BS in Information Systems**
+-  Have basic knowledge about programming (enough to make things work... and break them too!)
+-  Focusing on Manual Software Testing – learning how to write test cases, find bugs, and understand the QA process.
+-  Hobbies: Nap. Binge. Snack. Repeat.
+-  Reach me at: **veneesejulialazaraga@gmail.com**
 
 ---
 ### <div align="center"> 💻 Languages & Tools </div>
