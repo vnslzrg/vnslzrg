@@ -25,7 +25,7 @@
 
 ---
 
-## What I’m Learning & My Goals
+### What I’m Learning 
 
 - Developing core skills in **manual testing**: test plan design, test case writing, bug reporting  
 - Studying QA fundamentals: test types  
@@ -34,7 +34,7 @@
 
 ---
 
-## Goals 
+### Goals 
 
 - Complete at least one **Manual Testing Certification** on Coursera  
 - Finish a hands-on Udemy manual testing course and apply what I learn in practice projects  
