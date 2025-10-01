@@ -15,7 +15,7 @@
 
 ---
 
-### ˗ˏˋ 🍒 ˎˊ˗ About Me
+### About Me
 
 -  Currently studying **BS in Information Systems**
 -  Have basic knowledge about programming (enough to make things work... and break them too!)
@@ -24,6 +24,25 @@
 -  Reach me at: **veneesejulialazaraga@gmail.com**
 
 ---
+
+## What I’m Learning & My Goals
+
+- Developing core skills in **manual testing**: test plan design, test case writing, bug reporting  
+- Studying QA fundamentals: test types  
+- Planning to take certifications / courses on **Coursera** & **Udemy** to strengthen my QA knowledge  
+- Building practice projects to apply what I learn (test cases, bug reports, test plans)  
+
+---
+
+## Goals 
+
+- Complete at least one **Manual Testing Certification** on Coursera  
+- Finish a hands-on Udemy manual testing course and apply what I learn in practice projects  
+- Build a few practice projects (test plans, test cases, bug reports)  
+- Over time, transition into learning **automation testing** once I’m comfortable with manual
+
+---
+  
 ### <div align="center"> 💻 Languages & Tools </div>
 <div align="center">
   
