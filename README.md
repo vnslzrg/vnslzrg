@@ -36,7 +36,7 @@
 
 ### Goals 
 
-- Complete at least one **Manual Testing Certification** on Coursera  
+- Complete at least one **Manual Testing Certification** on Udemy
 - Finish a hands-on Udemy manual testing course and apply what I learn in practice projects  
 - Build a few practice projects (test plans, test cases, bug reports)  
 - Over time, transition into learning **automation testing** once I’m comfortable with manual
